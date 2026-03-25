@@ -1,6 +1,6 @@
 # 🎧 Catch the Cup  
 *A Localization Case Study on Designing Multilingual UX Through Music*
-
+![Catch the Cup Hero](Assets/Localization_Logo.png)
 ---
 
 ## 📌 Overview
