@@ -66,7 +66,7 @@ Builds anticipation through gradual progression and tension.
 
 Designed for broad engagement and memorability.
 
-[![Watch Halftime Track](https://img.youtube.com/vi/VIDEO_ID_2/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_2)
+[![Watch Halftime Track](https://img.youtube.com/vi/R1FvngILLqg/maxresdefault.jpg)](https://youtu.be/R1FvngILLqg)
 
 ---
 
@@ -74,7 +74,7 @@ Designed for broad engagement and memorability.
 
 Delivers emotional payoff with stronger multilingual integration.
 
-[![Watch Closing Track](https://img.youtube.com/vi/VIDEO_ID_3/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_3)
+[![Watch Closing Track](https://img.youtube.com/vi/eoIKGqGzpvM/maxresdefault.jpg)](https://youtu.be/eoIKGqGzpvM)
 
 ---
 
