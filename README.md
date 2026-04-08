@@ -58,7 +58,7 @@ Each is presented as a subtitled video with multilingual lyrics and a PT-BR tran
 
 Builds anticipation through gradual progression and tension.
 
-[![Watch Pre-Game Track](https://img.youtube.com/vi/VIDEO_ID_1/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_1)
+[![Watch Pre-Game Track](https://img.youtube.com/vi/27ceFbnIfzY/maxresdefault.jpg)](https://youtu.be/27ceFbnIfzY)
 
 ---
 
