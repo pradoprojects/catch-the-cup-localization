@@ -54,7 +54,7 @@ Each is presented as a subtitled video with multilingual lyrics and a PT-BR tran
 
 ---
 
-### 1. Pre-Game Track — Country-Pop Hybrid
+### 1. [Pre-Game Track — Country-Pop Hybrid](https://youtu.be/27ceFbnIfzY)
 
 Builds anticipation through gradual progression and tension.
 
@@ -62,7 +62,7 @@ Builds anticipation through gradual progression and tension.
 
 ---
 
-### 2. Halftime Track — Pop-Rock Accessible
+### 2. [Halftime Track — Pop-Rock Accessible](https://youtu.be/R1FvngILLqg)
 
 Designed for broad engagement and memorability.
 
@@ -70,7 +70,7 @@ Designed for broad engagement and memorability.
 
 ---
 
-### 3. Closing Track — Multilingual Anthem
+### 3. [Closing Track — Multilingual Anthem](https://youtu.be/eoIKGqGzpvM)
 
 Delivers emotional payoff with stronger multilingual integration.
 
