@@ -1,5 +1,6 @@
-# 🎧 Catch the Cup  
-*A Localization Case Study on Designing Multilingual UX Through Music*
+# 🎧 Catch the Cup
+
+*A Multilingual Experience Design Case Study Exploring AI-Assisted Creative Systems*
 
 ![Catch the Cup Hero](Assets/Localization_Logo.png)
 
@@ -7,179 +8,242 @@
 
 ## 📌 Overview
 
-**"Catch the Cup"** is a multimedia localization case study that explores how multilingual UX can be designed through music in a global entertainment context.
+**Catch the Cup** is an experimental experience design project exploring how language, timing, subtitles, music, and AI-assisted iteration can shape shared experiences across global audiences.
 
-Built around an original stadium-style song, the project develops a single musical concept into **three distinct versions**, each aligned with different audience moments in a live event.
+Inspired by the 2026 FIFA World Cup — hosted across the USA, Canada, and Mexico — and the 30th anniversary of Pokémon, the project investigates how multilingual systems can create emotional connection at scale.
 
-Rather than treating localization as a final step, the project positions language, structure, and timing as core elements of the experience.
+Rather than treating localization as a final production layer, the project approaches language as part of the experience architecture itself.
 
-Created by Marllos Paiva Prado, this case study combines multilingual songwriting, Brazilian Portuguese transcreation, audiovisual subtitle timing, and content strategy. Inspired by the 2026 World Cup and the 30th Anniversary of Pokémon, it explores how localization can shape emotion, accessibility, and engagement at scale.
+The result is a multimedia case study built around an original stadium-style song developed into multiple synchronized experiences designed for different audience moments.
 
-### 🎯 Objectives
+The project combines:
 
-This project was designed to explore and demonstrate:
-
-* **Multilingual songwriting and adaptation** across English, French, and Spanish  
-* **Brazilian Portuguese transcreation** balancing fidelity, rhythm, rhyme, and readability  
-* **Audiovisual execution** through subtitle timing, segmentation, and music-synced delivery  
-* **Strategic thinking in global entertainment** aligned with audience experience  
-
----
-
-## 🌍 Localization Approach
-
-As the 2026 World Cup is co-hosted by the USA, Canada, and Mexico, the project adopts a **multilingual integration approach**, where English, French, and Spanish coexist within the same composition rather than being separated.
-
-Each language acts as a distinct expressive voice:
-
-* 🇺🇸 **English** — Lead, clear and anthemic  
-* 🇨🇦 **French** — Expressive and theatrical  
-* 🇲🇽 **Spanish** — Rhythmic and energetic  
-
-A Brazilian Portuguese layer is introduced through subtitles as a **transcreation**, making the adaptation process itself visible.
+* multilingual communication systems
+* subtitle-driven UX thinking
+* AI-assisted creative iteration
+* transcreation and tonal adaptation
+* audiovisual pacing and readability
+* audience-focused experience design
 
 ---
 
-## 🎧 Multi-Track Strategy
+## 🌍 Core Design Question
 
-Rather than producing a single version, the project was designed as three coordinated variations:
+> How can multilingual communication feel emotionally unified across audiences, languages, and viewing contexts?
 
-* **Pre-Game** — anticipation and build-up  
-* **Halftime** — accessibility and crowd engagement  
-* **Closing** — emotional payoff and multilingual lift  
+Instead of separating languages into isolated versions, the project explored how English, French, and Spanish could coexist inside the same experience while remaining understandable, rhythmic, and emotionally engaging.
 
-All tracks share the same lyrical base but differ in structure, pacing, and language distribution.
-
-Each is presented as a subtitled video with multilingual lyrics and a PT-BR transcreation layer.
+Brazilian Portuguese was introduced as a subtitle transcreation layer, transforming localization itself into part of the visible audience experience.
 
 ---
 
-### 1. [Pre-Game Track — Country-Pop Hybrid](https://youtu.be/27ceFbnIfzY)
+## 🧠 Why I Built This
 
-Builds anticipation through gradual progression and tension.
+I became interested in how large-scale global events create shared emotional moments between people who do not necessarily share the same language.
 
-[![Watch Pre-Game Track](https://img.youtube.com/vi/27ceFbnIfzY/maxresdefault.jpg)](https://youtu.be/27ceFbnIfzY)
+The 2026 World Cup provided an interesting design constraint:
 
----
+* 🇺🇸 USA
+* 🇨🇦 Canada
+* 🇲🇽 Mexico
 
-### 2. [Halftime Track — Pop-Rock Accessible](https://youtu.be/R1FvngILLqg)
+Three host countries.
+Three dominant language contexts.
+One shared event.
 
-Designed for broad engagement and memorability.
+I used this context to explore how multilingual communication systems could feel cohesive rather than fragmented.
 
-[![Watch Halftime Track](https://img.youtube.com/vi/R1FvngILLqg/maxresdefault.jpg)](https://youtu.be/R1FvngILLqg)
-
----
-
-### 3. [Closing Track — Multilingual Anthem](https://youtu.be/eoIKGqGzpvM)
-
-Delivers emotional payoff with stronger multilingual integration.
-
-[![Watch Closing Track](https://img.youtube.com/vi/eoIKGqGzpvM/maxresdefault.jpg)](https://youtu.be/eoIKGqGzpvM)
+At the same time, I wanted to experiment with how AI-assisted workflows could accelerate creative iteration while still requiring human judgment around pacing, readability, emotional tone, and audience perception.
 
 ---
 
-## ✍️ PT-BR Transcreation — Technical Decisions
+## ⚡ AI-Assisted Iteration Workflow
 
-The following section explains how the Brazilian Portuguese version was developed to support the musical and audiovisual experience.
+This project became an ongoing exploration of how AI tools can support rapid creative prototyping.
 
-The PT-BR version was created as a **transcreation**, not a literal translation, balancing meaning, rhythm, and readability within a real-time audiovisual context.
+AI-assisted workflows were used to:
 
-### 🎵 Musical Priority over Literal Fidelity
+* rapidly explore lyrical structures
+* test multilingual phrasing variations
+* prototype tonal directions
+* iterate pacing and musical arrangements
+* experiment with subtitle synchronization
+* explore emotional rhythm across audience moments
 
-Rhythm, stress, and singability were prioritized over word-for-word equivalence when necessary.
+The process was highly iterative.
 
-Example:  
-> “Do mundo inteiro, em todas as partes”  
-Chosen to preserve rhyme and cadence, even with slightly more formal phrasing.
+Rather than generating a final artifact automatically, AI tools were used as exploratory systems that expanded the range of possible creative and communication directions.
+
+Human judgment remained central when evaluating:
+
+* emotional clarity
+* readability
+* pacing
+* cognitive load
+* subtitle segmentation
+* multilingual cohesion
+* audience accessibility
 
 ---
 
-### 🔁 Rhyme as Structural Element
+## 🌍 Multilingual Experience Strategy
 
-Rhyme was treated as part of the experience design.
+The project intentionally avoided fully separated language versions.
 
-> “sonhos e combates”  
-> “em todas as partes”
+Instead, English, French, and Spanish coexist dynamically within the same composition.
 
-Lines were adapted in relation to each other, rather than independently.
+Each language was treated as a distinct expressive layer:
+
+* 🇺🇸 **English** → structural clarity and anthem-like momentum
+* 🇨🇦 **French** → theatrical and expressive variation
+* 🇲🇽 **Spanish** → rhythmic energy and movement
+
+The goal was not perfect linguistic symmetry.
+
+The goal was to create a shared emotional rhythm that could still feel understandable and inclusive across audiences.
 
 ---
 
-### 🧠 Consistency for Cognitive Ease
+## 🎧 Multi-Track Experience System
 
-Repeated lines were kept identical:
+Instead of producing a single song version, the project evolved into three coordinated experience variations.
 
-> “Temos o mesmo sonho”  
-> “Sinta a torcida vibrar”  
+Each version explores a different audience context:
+
+### 🏟️ Pre-Game Track — Anticipation & Build-Up
+
+Designed to gradually increase tension and emotional momentum before the event.
+
+🔗 [https://youtu.be/27ceFbnIfzY](https://youtu.be/27ceFbnIfzY)
+
+---
+
+### 🎸 Halftime Track — Accessibility & Crowd Engagement
+
+Focused on memorability, readability, and broader audience participation.
+
+🔗 [https://youtu.be/R1FvngILLqg](https://youtu.be/R1FvngILLqg)
+
+---
+
+### 🌎 Closing Track — Emotional Multilingual Payoff
+
+Designed to create a larger sense of collective lift through stronger multilingual integration.
+
+🔗 [https://youtu.be/eoIKGqGzpvM](https://youtu.be/eoIKGqGzpvM)
+
+---
+
+## 🎬 Subtitle-Driven UX Thinking
+
+Subtitles were treated as part of the interaction design rather than passive translation overlays.
+
+The PT-BR transcreation layer was specifically designed for real-time audiovisual consumption.
+
+Key considerations included:
+
+* subtitle readability under timing pressure
+* controlled line segmentation
+* reading rhythm synchronization
+* cognitive ease during fast musical sections
+* strategic repetition for recognition
+* balancing meaning with emotional pacing
+
+---
+
+## ✍️ PT-BR Transcreation Decisions
+
+The Brazilian Portuguese layer was approached as a transcreation rather than literal translation.
+
+The goal was to preserve:
+
+* rhythm
+* readability
+* emotional tone
+* audience accessibility
+* musical flow
+
+while adapting phrasing for natural subtitle consumption.
+
+### Example — Rhythm over Literal Fidelity
+
+> “Do mundo inteiro, em todas as partes”
+
+This phrasing was selected to preserve cadence and musical momentum even though a more literal alternative was possible.
+
+---
+
+### Example — Cognitive Consistency Through Repetition
+
+Repeated lines such as:
+
+> “Temos o mesmo sonho”
+> “Sinta a torcida vibrar”
 > “Vamos o mundo agitar”
 
-This improves recognition and reduces cognitive load during fast musical sections.
+were intentionally preserved to improve recognition and reduce cognitive load during faster sections.
 
 ---
 
-### 🎬 Subtitle-Driven Adaptation
+### Example — Meaning vs Emotional Rhythm
 
-The PT-BR version was designed specifically for subtitle consumption:
-
-- controlled line length  
-- clear segmentation  
-- readable phrasing under time constraints  
-
----
-
-### ⚖️ Meaning vs. Form Trade-offs
-
-Some lines shift wording to preserve rhythm and emotional tone.
-
-Example:  
 > “main dans la main” → “sempre de mãos dadas”
 
----
-
-> In music localization, meaning is negotiated alongside rhythm, structure, and audience perception.
+The adaptation prioritized emotional continuity and natural subtitle flow over literal structural equivalence.
 
 ---
 
-## 🎬 Audiovisual Localization
+## 🧩 What This Project Explores
 
-Subtitles were treated as part of the experience:
+This project sits at the intersection of:
 
-* **Timing aligned with musical phrasing**  
-* **Controlled reading speed (CPS)**  
-* **Clean segmentation for readability**  
-* **Strategic exposure of key lines**
-
-The visual design remains minimal, emphasizing subtitles as the primary carrier of meaning.
+* multilingual UX
+* communication systems
+* audience perception
+* audiovisual accessibility
+* emotional pacing
+* AI-assisted creative workflows
+* localization and transcreation
+* interaction through language
 
 ---
 
-## 🧩 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
-* Multilingual songwriting adaptation and transcreation  
-* Subtitle timing and audiovisual synchronization  
-* Cross-cultural content strategy with AI-assisted prototyping  
+* Multilingual communication design
+* AI-assisted iterative prototyping
+* Subtitle timing and synchronization
+* Transcreation and tonal adaptation
+* Audience-focused experience design
+* Cross-cultural communication systems
+* Readability and cognitive pacing
+* Experimental workflow exploration
 
 ---
 
 ## ⚠️ Disclaimer
 
-This is a non-commercial, fan-made project created for portfolio purposes only.
+This is a non-commercial experimental portfolio project.
 
 It is not affiliated with or endorsed by:
 
-* The Pokémon Company International  
-* FIFA  
+* The Pokémon Company International
+* FIFA
+
+---
+
+## 💡 Final Reflection
+
+This project began as a localization experiment.
+
+It evolved into a broader exploration of how AI-assisted creative systems, multilingual communication, subtitles, rhythm, and emotional pacing can shape shared experiences across global audiences.
+
+More than a translation exercise, Catch the Cup became an exploration of how humans synchronize emotionally through language systems.
 
 ---
 
 ## 📬 Contact
 
-**Marllos Paiva Prado**  
-[LinkedIn](https://www.linkedin.com/in/marllos-p-a383641b2)  
+**Marllos Paiva Prado**
+[LinkedIn](https://www.linkedin.com/in/marllos-p-a383641b2)
 [marllospaiva@gmail.com](mailto:marllospaiva@gmail.com)
-
----
-
-## 💡 Final Note
-
-This project explores how localization can evolve beyond translation into the design of shared experiences for global audiences.
