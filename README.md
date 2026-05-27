@@ -53,7 +53,7 @@ Instead of building a single version, the project evolved into three different a
 
 Designed to slowly increase tension and momentum before the event.
 
-🔗 https://youtu.be/27ceFbnIfzY
+🔗 [![Watch Pre-Game Track](https://img.youtube.com/vi/27ceFbnIfzY/maxresdefault.jpg)](https://youtu.be/27ceFbnIfzY)
 
 ---
 
@@ -61,7 +61,7 @@ Designed to slowly increase tension and momentum before the event.
 
 Focused on readability, repetition, and audience participation.
 
-🔗 https://youtu.be/R1FvngILLqg
+🔗 [![Watch Halftime Track](https://img.youtube.com/vi/R1FvngILLqg/maxresdefault.jpg)](https://youtu.be/R1FvngILLqg)
 
 ---
 
@@ -69,7 +69,7 @@ Focused on readability, repetition, and audience participation.
 
 A more emotional version with stronger multilingual integration.
 
-🔗 https://youtu.be/eoIKGqGzpvM
+🔗 [![Watch Closing Track](https://img.youtube.com/vi/eoIKGqGzpvM/maxresdefault.jpg)](https://youtu.be/eoIKGqGzpvM)
 
 ---
 
