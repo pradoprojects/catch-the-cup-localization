@@ -11,9 +11,8 @@ Want a quick overview before diving into the details?
 
 This 2-minute presentation introduces the project's goals, creative process, multilingual UX challenges, and key learnings.
 
-🔗 Watch the Project Walkthrough
 
-[![Watch Pre-Game Track](https://img.youtube.com/vi/JLJ5tOBtHI8/maxresdefault.jpg)](https://youtu.be/JLJ5tOBtHI8?si=H5Dsu9-C7mpEHdK9)
+🔗 [![Watch Pre-Game Track](https://img.youtube.com/vi/JLJ5tOBtHI8/maxresdefault.jpg)](https://youtu.be/JLJ5tOBtHI8?si=H5Dsu9-C7mpEHdK9)
 
 
 ---
